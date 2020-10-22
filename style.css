@@ -5,7 +5,8 @@ nav {   text-align: center;
   
 }
 nav + a {
-padding: 10;
+padding: 10px;
+background: green;
 }
 
 body {
