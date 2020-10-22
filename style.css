@@ -25,7 +25,7 @@ figcaption {
   
 }
 
-featured-property + p {
+section ~ p {
    text-align: center;
    width: 800px;
 }
