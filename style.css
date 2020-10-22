@@ -4,7 +4,9 @@ h1 {
 nav {   text-align: center;
   
 }
-nav
+nav + a {
+padding: 10;
+}
 
 body {
   width: 100%;
